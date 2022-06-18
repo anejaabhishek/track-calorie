@@ -1,0 +1,69 @@
+body {
+  background-color: #232121;
+  height: 100vh;
+  color: aliceblue;
+}
+
+.nav-wrapper {
+  background-color: rgb(44, 41, 41);
+}
+
+.brand-logo {
+  color: #027959;
+}
+
+.card {
+  background-color: #027959;
+  color: aliceblue;
+  margin-top: 50px;
+  border-radius: 20px;
+}
+
+#item-list li {
+  background-color: #027959;
+}
+
+#total-calories {
+  margin-top: 50px;
+  color: aliceblue;
+}
+
+ul {
+  color: aliceblue;
+}
+
+ul i {
+  color: aliceblue;
+}
+
+.clear-btn-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.clear-btn {
+  background-color: #df2055;
+}
+
+.delete-btn {
+  background-color: #df2055;
+}
+
+.update-btn {
+  background-color: #2b4c93;
+}
+
+.add-btn {
+  background-color: #3c10a6;
+}
+
+.back-btn {
+  background-color: #ffffff;
+  color: #232121;
+}
+
+label {
+  font-weight: 500;
+  color: aliceblue;
+}
