@@ -1,11 +1,11 @@
 body {
-  background-color: #232121;
+  background-color: #dddddd;
   height: 100vh;
   color: aliceblue;
 }
 
 .nav-wrapper {
-  background-color: rgb(44, 41, 41);
+  background-color: #222831;
 }
 
 .brand-logo {
@@ -13,19 +13,18 @@ body {
 }
 
 .card {
-  background-color: #027959;
-  color: aliceblue;
+  background-color: #30475e;
   margin-top: 50px;
   border-radius: 20px;
 }
 
 #item-list li {
-  background-color: #027959;
+  background-color: #30475e;
 }
 
 #total-calories {
   margin-top: 50px;
-  color: aliceblue;
+  color: black;
 }
 
 ul {
@@ -36,6 +35,11 @@ ul i {
   color: aliceblue;
 }
 
+ul li {
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
 .clear-btn-div {
   display: flex;
   align-items: center;
@@ -43,7 +47,7 @@ ul i {
 }
 
 .clear-btn {
-  background-color: #df2055;
+  background-color: #d72323;
 }
 
 .delete-btn {
@@ -51,11 +55,11 @@ ul i {
 }
 
 .update-btn {
-  background-color: #2b4c93;
+  background-color: #00adb5;
 }
 
 .add-btn {
-  background-color: #3c10a6;
+  background-color: #f05454;
 }
 
 .back-btn {
@@ -64,6 +68,10 @@ ul i {
 }
 
 label {
-  font-weight: 500;
-  color: aliceblue;
+  font-weight: 800;
+  color: black;
+}
+
+.btn {
+  border-radius: 5px;
 }
